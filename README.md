@@ -16,4 +16,4 @@ SO THAT I can create a strong password that provides greater security
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](/../assets/images/Website%20Screenshot.png)
+![The Password Generator application displays a red button to "Generate Password".](assets/images/Website%20Screenshot.png "Screenshot")
